@@ -1,6 +1,6 @@
 # Caique Pimenta "LilMago" 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/camasanpi/camasanpi)]https://github.com/camasanpi/camasanpi)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/camasanpi/camasanpi)](https://github.com/camasanpi/camasanpi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caique-pimenta-350117117/)](https://www.linkedin.com/in/caique-pimenta-350117117/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camasanpi@gmail.com)](mailto:camasanpi@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/pimentacaique/)](https://www.instagram.com/pimentacaique/)
