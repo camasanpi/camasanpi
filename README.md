@@ -25,5 +25,5 @@ Meu nome é Caique Pimenta, sou Engenheiro de Software e Desenvolvedor Full Stac
 - :white_check_mark: Atualmente usando o framework **AngularJS** para frontend.
 - :green_book: Estudando Type Script
 
-também CEO da [@APSoftware](https://github.com/AP-Software-Sistemas-de-Informacao) onde faço projetos particulares nas horas vagas sendo basicamente um ''Freelance''
+também CTO da [@APSoftware](https://github.com/AP-Software-Sistemas-de-Informacao) onde faço projetos particulares nas horas vagas sendo basicamente um ''Freelance''
 
