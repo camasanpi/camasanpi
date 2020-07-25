@@ -14,7 +14,7 @@ My name is Caique Pimenta and i'm a Software Engineer and Full Stack developer.
 - :white_check_mark: Currently framework to frontend static **AngularJS**
 - :green_book: Learning TypeScript
 
-also i'm owner of [@APSoftware](https://github.com/AP-Software-Sistemas-de-Informacao) where i do private projects in my spare time, basically a ''freelance''
+also i'm CTO of [@APSoftware](https://github.com/AP-Software-Sistemas-de-Informacao) where i do private projects in my spare time, basically a ''freelance''
 
 # Portuguese
 ### Hey! Bem vindo ao meu Github
